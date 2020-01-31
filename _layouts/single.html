@@ -42,8 +42,15 @@ layout: default
             </nav>
           </aside>
         {% endif %}
-        <p><a href="https://coupa.ng/bnG13R"><img src="https://static.coupangcdn.com/image/vendor_inventory/bcfb/f8840b3f5543a338d3442c6f7dafc777e3f3344d6de550cedcc0743b370b.jpg" alt="foo"></a></p>
+        <p><a href="{{page.post_link_url}}"><img src="{{page.post_img_url}}" alt="foo"></a></p>
         {{ content }}
+        <p style="text-align: center;">**{{page.post_money}}**</p>
+        <p style="text-align: center;"><span style="color: #898c8f; font-family: Georgia,Times,serif; font-size: 0.75em;">{{page.post_date}}에 작성되어, <br>가격변동 및 추가할인이 있을 수 있으니,<br> 상품 가격을 꼭!확인해주세요.<br>행복하세요~</span></p>
+        <div style="text-align: center;"><a href="{{post_link_url}}" class="btn btn--success">상품가격 및 후기 보러가기</a></div>
+        <p><br><br>#시계aa00460 #18K골드콤비 #남성 #롤렉스 #데이저스트 #19년신상 #69다이아</p>
+        <hr>
+        <blockquote><p>탐구정신은 우리가 살고 있는 시대의 위대한 특징이다. - 풀</p></blockquote>
+        
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
 
