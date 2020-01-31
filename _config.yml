@@ -24,8 +24,8 @@ description              : "Have A Nice Day"
 url                      : "https://www.mastershop.shop"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/500x300.png"
-logo                     : "/assets/images/logo.png"
+teaser                   : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMjMg/MDAxNTgwNDg0MzQzNDAy.PVkrqRrW6_jRrls323_PUKBKTZjxcITcm_y67RlDPZ4g.ymGXERSN0G5SRtY7g64yRIBP2lxc7bKBoe6MAIUPgeAg.JPEG.sakai111/Logo.jpg"
+logo                     : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMjMg/MDAxNTgwNDg0MzQzNDAy.PVkrqRrW6_jRrls323_PUKBKTZjxcITcm_y67RlDPZ4g.ymGXERSN0G5SRtY7g64yRIBP2lxc7bKBoe6MAIUPgeAg.JPEG.sakai111/Logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 breadcrumb_home_label : "Home"
@@ -91,7 +91,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : /assets/images/sitelogo.png
+og_image                 : https://blogfiles.pstatic.net/MjAyMDAyMDFfMjMg/MDAxNTgwNDg0MzQzNDAy.PVkrqRrW6_jRrls323_PUKBKTZjxcITcm_y67RlDPZ4g.ymGXERSN0G5SRtY7g64yRIBP2lxc7bKBoe6MAIUPgeAg.JPEG.sakai111/Logo.jpg
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -116,7 +116,7 @@ nv_analytics:
 # Site Author
 author:
   name             : "ASK"
-  avatar           : "/assets/images/bio-photo.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://blogpfthumb-phinf.pstatic.net/MjAyMDAxMzFfMTgx/MDAxNTgwNDY5MDg0OTU2.jZiZ5QxuVugg7C4Ey5URqx6x4pkJULVHaX4OUlOYztkg.ZwgUkvX4p_sI_KKa6zUb1Mls3fSnQIyuTxRUzuvCq5kg.PNG.sakai111/bio-photo.png?type=w161" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**What do you want, jewels?**<br>I am a very extravagant man. "
   location         : "Somewhere"
   email            :
