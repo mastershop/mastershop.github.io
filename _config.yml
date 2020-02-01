@@ -23,7 +23,7 @@ name                     : "ask"
 description              : "Have A Nice Day"
 url                      : "https://www.mastershop.shop"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "mastershop/mastershop.github.io"
 teaser                   : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMTUx/MDAxNTgwNDg2MzQ1MzU4.9sW7HNjoyv8L601XTvHcrH9AZ0-sCSEO1UZplq_XUVsg.k_kabytQqvIewwampUGPvVWG7PP3ijEYwtS_SgC7ltIg.JPEG.sakai111/Logo.jpg"
 logo                     : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMTUx/MDAxNTgwNDg2MzQ1MzU4.9sW7HNjoyv8L601XTvHcrH9AZ0-sCSEO1UZplq_XUVsg.k_kabytQqvIewwampUGPvVWG7PP3ijEYwtS_SgC7ltIg.JPEG.sakai111/Logo.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
