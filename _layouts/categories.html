@@ -32,10 +32,10 @@ layout: archive
         <h2 class="archive__subtitle">{{ category[0] }}</h2>
         <div class="entries-{{ page.entries_layout | default: 'list' }}">
           {% for post in category.last %}
-            {% if forloop.index <= 30 %}
+            {% if forloop.index <= 20 %}
               {% include archive-single.html type=page.entries_layout %}
             {% endif %}
-            {% if forloop.index > 30 %}
+            {% if forloop.index > 20 %}
               {% break %}
              {% endif %}
               
