@@ -34,14 +34,14 @@ layout: archive
           {% for post in category.last %}
             {% if forloop.index <= 20 %}
               {% include archive-single.html type=page.entries_layout %}
+              <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
             {% endif %}
             {% if forloop.index > 20 %} 
               {% break %}
              {% endif %}
               
           {% endfor %}
-        </div>
-        <a href="#page-title" class="back-to-top">{{ site.data.ui-text[site.locale].back_to_top | default: 'Back to Top' }} &uarr;</a>
+        </div>        
       </section>
     {% endif %}
   {% endfor %}
