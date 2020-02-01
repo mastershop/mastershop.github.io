@@ -24,8 +24,8 @@ description              : "Have A Nice Day"
 url                      : "https://mastershop.shop"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mastershop/mastershop.github.io"
-teaser                   : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMTUx/MDAxNTgwNDg2MzQ1MzU4.9sW7HNjoyv8L601XTvHcrH9AZ0-sCSEO1UZplq_XUVsg.k_kabytQqvIewwampUGPvVWG7PP3ijEYwtS_SgC7ltIg.JPEG.sakai111/Logo.jpg"
-logo                     : "https://blogfiles.pstatic.net/MjAyMDAyMDFfMTUx/MDAxNTgwNDg2MzQ1MzU4.9sW7HNjoyv8L601XTvHcrH9AZ0-sCSEO1UZplq_XUVsg.k_kabytQqvIewwampUGPvVWG7PP3ijEYwtS_SgC7ltIg.JPEG.sakai111/Logo.jpg"
+teaser                   : "https://k.kakaocdn.net/dn/br6yZ4/btqBEzUju1j/zftMxI9eUtiMJfRFALDK1K/img.jpg"
+logo                     : "https://k.kakaocdn.net/dn/br6yZ4/btqBEzUju1j/zftMxI9eUtiMJfRFALDK1K/img.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs            : true # true, false (default)
 breadcrumb_home_label : "Home"
