@@ -39,7 +39,7 @@ layout: archive
             {% if forloop.index <= 15 %}
               {% include archive-single.html type=page.entries_layout %}
             {% endif %}
-            {% if forloop.index > 15 %}
+            {% if forloop.index > 15 %} 
               {% break %}
              {% endif %}        
           {% endfor %}

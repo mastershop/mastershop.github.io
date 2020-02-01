@@ -24,7 +24,7 @@ layout: archive
           {% if forloop.index <= 100 %}              
               {% include archive-single.html type=page.entries_layout %}
           {% endif %}
-          {% if forloop.index > 100 %}
+          {% if forloop.index > 100 %} 
               {% break %}
           {% endif %}
       {% endfor %}
