@@ -180,8 +180,8 @@ exclude:
   - assets/js/vendor
  # - Capfile
  # - CHANGELOG
-  - config
-  - Gemfile
+ # - config
+ # - Gemfile
  # - Gruntfile.js
  # - gulpfile.js
 #  - LICENSE
