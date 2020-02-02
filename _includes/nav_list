@@ -5,7 +5,7 @@
   <input id="ac-toc" name="accordion-toc" type="checkbox" />
   <label for="ac-toc">{{ site.data.ui-text[site.locale].menu_label | default: "Toggle Menu" }}</label>
   <ul class="nav__items">
-    {% for nav in navigation %}
+    <!--{% for nav in navigation %}
       <li>
         {% if nav.url %}
           {% comment %} internal/external URL check {% endcomment %}
@@ -43,5 +43,6 @@
         {% endif %}
       </li>
     {% endfor %}
+    -->
   </ul>
 </nav>

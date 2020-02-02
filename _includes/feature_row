@@ -7,9 +7,9 @@
 
 <div class="feature__wrapper">
 {% for post in site.posts %}       
-  {% if forloop.index > 1 and forloop.index <= 7 %}
+  {% if forloop.index > 1 and forloop.index <= 50 %}
     {% include feature_row.html type=page.entries_layout %}
-  {% elsif forloop.index > 7 %}
+  {% elsif forloop.index > 20 %}
     {% break %}
   {% endif %}
 {% endfor %}    
