@@ -79,10 +79,10 @@ google:
   search_engine_id       : partner-pub-3309468445717403:4878501321
   instant_search         : # false (default), true
 # SEO Related
-google_site_verification :
+google_site_verification : hAxkb2-Td3ixuYKJPOORw62pAaqXiiV_LtlN53OZZ48
 bing_site_verification   :
 yandex_site_verification :
-naver_site_verification  :
+naver_site_verification  : 5b99ec819ce63176ff5e51f33e0f7d64e6ed24be
 
 # Social Sharing
 twitter:
@@ -232,8 +232,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: Asia/Seoul # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
