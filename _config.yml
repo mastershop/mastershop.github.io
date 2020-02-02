@@ -76,7 +76,7 @@ algolia:
   search_only_api_key    : # YOUR_SEARCH_ONLY_API_KEY
   powered_by             : # true (default), false
 google:
-  search_engine_id       : partner-pub-3309468445717403:4878501321
+  search_engine_id       : "partner-pub-3309468445717403:4878501321"
   instant_search         : # false (default), true
 # SEO Related
 google_site_verification :
@@ -178,12 +178,12 @@ exclude:
   - assets/js/plugins
   - assets/js/_main.js
   - assets/js/vendor
- # - Capfile
- # - CHANGELOG
- # - config
+  - .editorconfig
+  - .gitattributes
+  - CNAME
   - Gemfile
- # - Gruntfile.js
- # - gulpfile.js
+  - favicon.ico.png
+  - star_auto_push.sh
 #  - LICENSE
  # - log
  # - node_modules
