@@ -29,13 +29,13 @@
         <figure>
           <img src="{{post.post_img_url}}" />
         </figure>
-      <p><a class="no-uline" href="{{ post.link }}">{{ title }}</a>
+      <span><a class="no-uline" href="{{ post.link }}">{{ title }}</a>
         <a href="{{ post.url | relative_url }}" rel="permalink">
           <i class="fas fa-link" aria-hidden="true" title="permalink">
           </i>
           <span class="sr-only">Permalink</span>
         </a>
-      </p>
+      </span>
       <span class="index_content">{{ post.post_money }} </span><br>
       <span class="index_content">{{ post.post_date }}</span><br>
       {% else %}
@@ -43,10 +43,10 @@
           <figure >
             <img src="{{post.post_img_url}}" />     
           </figure>
-        <p>
+        <span>
           <a class="no-uline" href="{{ post.url | relative_url }}" rel="permalink">
             {{ title }}
-          </a>
+          </span>
         </p>
         <span class="index_content">{{ post.post_money }} </span><br>
         <span class="index_content">{{ post.post_date }}</span><br>
