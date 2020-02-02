@@ -171,7 +171,7 @@ exclude:
  # - "*.sublime-project"
  # - "*.sublime-workspace"
   - vendor
-  #- .asset-cache
+  - .asset-cache
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
@@ -181,7 +181,7 @@ exclude:
   - .editorconfig
   - .gitattributes
   - CNAME
-  #- Gemfile  
+  - Gemfile  
   - star_auto_push.sh
 #  - LICENSE
  # - log
