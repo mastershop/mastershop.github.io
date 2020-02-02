@@ -11,10 +11,10 @@
           MasterShop
       </h1>
         <p class="page__lead">{{post.post_sub_title}}<br> 
-          <small> <a href="{{post.id}}">{{post.post_money}}</a></small>
+          <small> <a href="{{ site.url }}{{post.id}}">{{post.post_money}}</a></small>
         </p>
         <p>
-          <a href="{{post.id}}" class="btn btn--light-outline btn--large"><svg class="svg-inline--fa fa-download fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor"></path></svg><!-- <i class="fas fa-download"></i> --> [바로가기]</a>
+          <a href="{{ site.url }}{{post.id}}" class="btn btn--light-outline btn--large"><svg class="svg-inline--fa fa-download fa-w-16" aria-hidden="true" focusable="false" data-prefix="fas" data-icon="download" role="img" xmlns="https://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""><path fill="currentColor"></path></svg><!-- <i class="fas fa-download"></i> --> [바로가기]</a>
         
     </p></div>
 </div>
