@@ -1,7 +1,0 @@
-{% for post in site.posts %}       
-  {% if forloop.index == 1 %}
-    {% include index_over_lay.html type=page.entries_layout %}
-  {% elsif forloop.index > 1 %}
-    {% break %}
-  {% endif %}
-{% endfor %}    
