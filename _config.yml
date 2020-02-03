@@ -209,10 +209,10 @@ markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
-incremental: true
+#incremental: true
 profile: true
-strict_front_matter: false
-limit_posts: 20
+# strict_front_matter: false
+# limit_posts: 20
 
 # Markdown Processing
 kramdown:
