@@ -183,7 +183,7 @@ exclude:
   - CNAME
   - Gemfile  
   - star_auto_push.sh
-#  - LICENSE
+  - LICENSE
  # - log
  # - node_modules
 #  - package.json
