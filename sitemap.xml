@@ -6,4 +6,7 @@
    <sitemap>
       <loc>https://mastershop.shop/sitemap2.xml</loc>
    </sitemap>
+      <sitemap>
+      <loc>https://mastershop.shop/sitemap3.xml</loc>
+   </sitemap>
    </sitemapindex>
