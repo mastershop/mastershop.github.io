@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
 <loc> https://mastershop.shop/vendor_inventory/99477075/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -13,6 +14,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/retail/99422344/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/9919464/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -48,6 +55,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/8142185/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/7869488/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -60,6 +73,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/726456/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/71396966/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -67,6 +86,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/retail/71326463/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/71293185/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/7120191/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -103,6 +134,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendoritem/60554204/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/55430744/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -150,6 +187,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendoritem/5162895/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/51316098/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -181,6 +224,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendoritem/40939491/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/39971638/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -276,6 +325,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/341971380/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/341386938/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -318,6 +373,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/336627464/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/335811958/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -331,6 +392,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/332798649/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/330732886/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/330658582/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -384,6 +457,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/320597845/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/320532932/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -391,6 +470,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/retail/320322651/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/319779848/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -480,7 +565,19 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/30345375/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/303217894/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/30308067/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -522,13 +619,37 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/296610915/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/296178097/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/295823556/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/294224987/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/294026601/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/292992123/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -618,6 +739,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/284335468/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/280763073/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -642,6 +769,18 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/retail/272344854/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/271747532/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/271122418/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -655,6 +794,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/269417871/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/269161510/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -720,6 +865,18 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/256783219/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/256706751/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/253274210/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -733,6 +890,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/retail/24941844/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/248755868/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -756,7 +919,19 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/retail/24682648/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendoritem/2452280/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/244031969/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -774,6 +949,18 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/242276673/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/241680692/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/239304869/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -781,6 +968,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/237050281/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/233353376/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/230987891/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -834,7 +1033,31 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/221978388/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/221527593/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/retail/2204430/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/retail/2204392/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/219610472/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -859,6 +1082,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/209892939/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/retail/209366814/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/207441748/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -906,6 +1141,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/196860808/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/191816380/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -936,7 +1177,37 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1863704/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/retail/184942670/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/18349646/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/179017996/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/178440846/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/173992092/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -955,6 +1226,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendoritem/168781249/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/168516714/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/166496265/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -990,13 +1273,31 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendoritem/16273905/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/157100726/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/155619306/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/retail/15521322/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/154424615/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1033,6 +1334,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/14795751/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/147204881/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1122,6 +1429,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1337107801/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/13358543/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1158,6 +1471,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/retail/1315249967/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1313560000/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1171,6 +1490,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1308918111/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/130816671/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1194,6 +1519,30 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/129488432/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1293761529/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1288705941/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1287245220/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1283204619/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1212,7 +1561,19 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1278960999/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1277972494/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1277969361/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1231,6 +1592,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1272968789/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1271861418/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1362,6 +1729,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1227249880/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1226635154/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1381,6 +1754,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1223156208/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1223021427/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1428,6 +1807,18 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1201872445/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1201432277/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1199717674/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1452,6 +1843,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1179214898/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1178264921/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1465,6 +1862,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1175467536/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1173030169/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1489,6 +1892,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1160010344/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1150683039/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1148977312/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1548,6 +1963,12 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1123295928/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/1121362668/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1555,6 +1976,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1115880585/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1111841385/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1573,6 +2000,18 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1103807471/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1102100437/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1096024460/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1614,6 +2053,18 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1077713330/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/1077713319/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/107500820/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
@@ -1638,7 +2089,19 @@
 <priority>0.5</priority> 
 </url>		
 <url>
+<loc> https://mastershop.shop/vendor_inventory/1066795206/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
 <loc> https://mastershop.shop/vendor_inventory/105637981/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/104261790/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -1657,6 +2120,12 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/102315953/</loc> 
+<lastmod>2020-03-18T00:00:00+00:00</lastmod>
+<changefreq>weekly</changefreq>
+<priority>0.5</priority> 
+</url>		
+<url>
+<loc> https://mastershop.shop/vendor_inventory/10002929/</loc> 
 <lastmod>2020-03-18T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
@@ -17533,474 +18002,6 @@
 </url>		
 <url>
 <loc> https://mastershop.shop/vendor_inventory/1122265447/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1119708199/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1109905699/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1105699023/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1105317921/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/1104995278/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1097891328/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1096134295/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1093738725/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/108740595/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1085051088/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1078478989/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1076613581/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1075033363/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/107438883/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1071560392/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/1064790181/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/101225357/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/99814046/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/99479804/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/98876049/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/98714874/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/98433570/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/96110015/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/95545051/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/94751335/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/9266286/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/92129185/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/90456849/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/88542565/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/86727740/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/8669630/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/83312144/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/83279303/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/81435222/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/80154643/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/76776129/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/7659205/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/73158709/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/730151/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/69271319/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/66739511/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/66701544/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/65731003/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/65559295/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/64816288/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/63431892/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/56621484/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/55925900/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/55671045/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/54870222/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/53733875/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/53733869/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/53725636/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/53032398/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/5196074/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/51306252/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/50652214/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/46517701/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/457508/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/45416320/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/39704542/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/3848625/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/38204082/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendoritem/3790616/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/36528406/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/3562354/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/346659894/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/retail/345605255/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/345099958/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/344111964/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/343522895/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/343470265/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/342375296/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/340462860/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/339622253/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/337133763/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/vendor_inventory/336992817/</loc> 
-<lastmod>2020-03-08T00:00:00+00:00</lastmod>
-<changefreq>weekly</changefreq>
-<priority>0.5</priority> 
-</url>		
-<url>
-<loc> https://mastershop.shop/operator/335719461/</loc> 
 <lastmod>2020-03-08T00:00:00+00:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.5</priority> 
