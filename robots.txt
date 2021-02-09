@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://mastershop.shop/sitemap.xml
+Sitemap: https://mastershop.github.io/sitemap.xml
